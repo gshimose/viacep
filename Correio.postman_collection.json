@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "1690713b-d636-497d-814e-3abf28e5a238",
+		"name": "Correio",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "5931682",
+		"_collection_link": "https://grey-spaceship-498648.postman.co/workspace/SpeedSellX~3535e6d8-35d1-4948-83e9-dc55a9d7b3da/collection/5931682-1690713b-d636-497d-814e-3abf28e5a238?action=share&source=collection_link&creator=5931682"
+	},
+	"item": [
+		{
+			"name": "viaCep",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "consutaCep",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
