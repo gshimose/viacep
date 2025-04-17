@@ -7,8 +7,5 @@ O banco utilizado no desenvolvimento foi MySql. caso deseje mudar, basta alterar
 
 Este repositório contém:
 
-  Projeto java
-  Evidencia de teste
-  Collection postman
-  diagrama de sequencia
+  Projeto java,  evidencia de teste,   collection postman e   diagrama de sequencia
 
